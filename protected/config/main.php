@@ -29,7 +29,7 @@ return array(
 		),
 
 	),
-
+                                                                    /* NORMALA SAGH VONCVOR */
 	// application components
 	'components'=>array(
 		'user'=>array(
