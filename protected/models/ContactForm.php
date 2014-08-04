@@ -3,7 +3,7 @@
 /**
  * ContactForm class.
  * ContactForm is the data structure for keeping
- * contact form data. It is used by the 'contact' action of 'SiteController'.
+ * contact form data. It is used by the 'contact' action of 'SiteController'.   testing
  */
 class ContactForm extends CFormModel
 {
